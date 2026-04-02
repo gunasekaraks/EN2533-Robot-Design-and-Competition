@@ -65,7 +65,17 @@ private:
   long maxStraightPulses;
   // (uses global encoder pulses via ISRs in main.cpp)
 
+  // Movement state tracking (for non-blocking moves)
+  long moveStartRight, moveStartLeft;
+  long moveTargetPulses;
+  unsigned long moveLastTime;
+  unsigned long moveStartTime;
+  unsigned long moveTimeoutMs;
+  float moveIntegral, moveLastError;
+
   // Helper methods
+  void startMovement(int distanceCm, bool forward = true);
+  bool updateMovement(bool forward = true);
   void lineFollowPID(uint16_t *sensorValues);
   void handleLeftTurn(uint16_t *sensorValues);
   void handleRightTurn(uint16_t *sensorValues);

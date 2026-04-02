@@ -22,7 +22,7 @@ private:
   int trigPin;
   int echoPin;
   static const long TIMEOUT_MICROS = 30000;  // 30ms timeout = ~5m max range
-  static const float SPEED_OF_SOUND = 0.0343; // cm per microsecond
+  static constexpr float SPEED_OF_SOUND = 0.0343; // cm per microsecond
 };
 
 #endif // ULTRASONIC_SENSOR_H

@@ -107,7 +107,7 @@ bool Task2_2::update() {
 
     // After task completion: move backward 30 cm and turn right 90°
     Serial.println(">> Moving backward 30cm (Task2_2 completion)...");
-    mover->moveBackwardCm(25);
+    mover->moveBackwardCm(40);
     delay(100);
     Serial.println(">> Turning right 90 degrees...");
     // turnAngle(positive = right)

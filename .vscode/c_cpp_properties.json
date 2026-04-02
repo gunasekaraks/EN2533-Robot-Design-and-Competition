@@ -18,6 +18,7 @@
                 "c:/Users/KAVEEN/Desktop/Robo_competition/.pio/libdeps/megaatmega2560/Adafruit BusIO",
                 "c:/Users/KAVEEN/Desktop/Robo_competition/.pio/libdeps/megaatmega2560/Adafruit GFX Library",
                 "c:/Users/KAVEEN/Desktop/Robo_competition/.pio/libdeps/megaatmega2560/Adafruit SSD1306",
+                "c:/Users/KAVEEN/Desktop/Robo_competition/.pio/libdeps/megaatmega2560/Unity/src",
                 "C:/Users/KAVEEN/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
                 "C:/Users/KAVEEN/.platformio/packages/framework-arduino-avr/libraries/HID/src",
                 "C:/Users/KAVEEN/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
@@ -37,6 +38,7 @@
                     "c:/Users/KAVEEN/Desktop/Robo_competition/.pio/libdeps/megaatmega2560/Adafruit BusIO",
                     "c:/Users/KAVEEN/Desktop/Robo_competition/.pio/libdeps/megaatmega2560/Adafruit GFX Library",
                     "c:/Users/KAVEEN/Desktop/Robo_competition/.pio/libdeps/megaatmega2560/Adafruit SSD1306",
+                    "c:/Users/KAVEEN/Desktop/Robo_competition/.pio/libdeps/megaatmega2560/Unity/src",
                     "C:/Users/KAVEEN/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
                     "C:/Users/KAVEEN/.platformio/packages/framework-arduino-avr/libraries/HID/src",
                     "C:/Users/KAVEEN/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
@@ -45,7 +47,7 @@
                 ]
             },
             "defines": [
-                "PLATFORMIO=60118",
+                "PLATFORMIO=60119",
                 "ARDUINO_AVR_MEGA2560",
                 "F_CPU=16000000L",
                 "ARDUINO_ARCH_AVR",
