@@ -8,10 +8,16 @@ Arduino/PlatformIO codebase for our competition robot (ATmega2560) with modular 
 
 Robot images:
 
-<img src="assets/images/WhatsApp%20Image%202026-04-03%20at%2000.06.09.jpeg" alt="Robot Photo 1" width="280" />
-<img src="assets/images/WhatsApp%20Image%202026-04-03%20at%2000.06.09%20(1).jpeg" alt="Robot Photo 2" width="280" />
-<img src="assets/images/WhatsApp%20Image%202026-04-03%20at%2000.06.10.jpeg" alt="Robot Photo 3" width="280" />
-<img src="assets/images/WhatsApp%20Image%202026-04-03%20at%2000.06.11.jpeg" alt="Robot Photo 4" width="280" />
+<table>
+  <tr>
+    <td><img src="assets/images/WhatsApp%20Image%202026-04-03%20at%2000.06.09.jpeg" alt="Robot Photo 1" width="260" /></td>
+    <td><img src="assets/images/WhatsApp%20Image%202026-04-03%20at%2000.06.09%20(1).jpeg" alt="Robot Photo 2" width="260" /></td>
+  </tr>
+  <tr>
+    <td><img src="assets/images/WhatsApp%20Image%202026-04-03%20at%2000.06.10.jpeg" alt="Robot Photo 3" width="260" /></td>
+    <td><img src="assets/images/WhatsApp%20Image%202026-04-03%20at%2000.06.11.jpeg" alt="Robot Photo 4" width="260" /></td>
+  </tr>
+</table>
 
 ## Hardware/Platform
 
