@@ -1,5 +1,7 @@
 # EN2533 Robot Design and Competition
 
+I received an A pass for this module.
+
 Arduino/PlatformIO codebase for our competition robot (ATmega2560) with modular task-based behaviors.
 
 ## Hardware/Platform
