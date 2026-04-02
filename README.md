@@ -6,17 +6,12 @@ Arduino/PlatformIO codebase for our competition robot (ATmega2560) with modular 
 
 ## Robot Photos
 
-Add your robot images to `assets/images/` using these names:
+Robot images:
 
-- `robot-front.jpg`
-- `robot-side.jpg`
-- `robot-top.jpg`
-
-Once the files are added, they will appear here on GitHub:
-
-![Robot Front](assets/images/robot-front.jpg)
-![Robot Side](assets/images/robot-side.jpg)
-![Robot Top](assets/images/robot-top.jpg)
+![Robot Photo 1](assets/images/WhatsApp%20Image%202026-04-03%20at%2000.06.09.jpeg)
+![Robot Photo 2](assets/images/WhatsApp%20Image%202026-04-03%20at%2000.06.09%20(1).jpeg)
+![Robot Photo 3](assets/images/WhatsApp%20Image%202026-04-03%20at%2000.06.10.jpeg)
+![Robot Photo 4](assets/images/WhatsApp%20Image%202026-04-03%20at%2000.06.11.jpeg)
 
 ## Hardware/Platform
 
