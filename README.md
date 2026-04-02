@@ -4,6 +4,20 @@ I received an A pass for this module.
 
 Arduino/PlatformIO codebase for our competition robot (ATmega2560) with modular task-based behaviors.
 
+## Robot Photos
+
+Add your robot images to `assets/images/` using these names:
+
+- `robot-front.jpg`
+- `robot-side.jpg`
+- `robot-top.jpg`
+
+Once the files are added, they will appear here on GitHub:
+
+![Robot Front](assets/images/robot-front.jpg)
+![Robot Side](assets/images/robot-side.jpg)
+![Robot Top](assets/images/robot-top.jpg)
+
 ## Hardware/Platform
 
 - Board: Arduino Mega 2560 (`megaatmega2560`)
